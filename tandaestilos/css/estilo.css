@@ -1,0 +1,36 @@
+body, html {
+    height: 100%;
+}
+
+.panelpost > p{
+	text-align : justify;
+}
+.img-icon{
+	width: 120px;
+	display: block;
+	margin: 0 auto;
+	clear: right;
+}
+.panelpost > h3{
+	text-align: center;
+}
+.barra-busqueda{
+	float: right;
+	width: 100% !important;
+}
+.barra-busqueda > input{
+	border-radius: 5px;
+	width: 92%;
+}
+.img-historial{
+	max-width: 120px;
+}
+.contenido{
+	width: 85%;
+	float: right;
+}
+.centrado{
+	display: block;
+	margin: 0 auto;
+	clear: right;
+}
